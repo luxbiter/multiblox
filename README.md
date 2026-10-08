@@ -1,6 +1,5 @@
 # MultiBlox — Roblox Multi-Instance Launcher
-> **Use At Your Own Risk**
-Lightweight PowerShell tool for running multiple Roblox clients on one Windows PC.
+> **Use At Your Own Risk**<br>Lightweight PowerShell tool for running multiple Roblox clients on one Windows PC.
 
 ## How it works
 
